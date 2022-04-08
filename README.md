@@ -1,16 +1,14 @@
-# newsly2
+# Newsly
+# Daily News in your hands
 
-A new Flutter project.
+Simple News application 
 
-## Getting Started
+Here you can get news from all over the world
 
-This project is a starting point for a Flutter application.
+Different categories for news, sport, business, and many more
 
-A few resources to get you started if this is your first Flutter project:
+You can get also the COVID-19 updates and the weather status in your location.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+And also the breaking news as a notification on your mobile.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For any help or feedback, contact me on my accounts :)
