@@ -13,7 +13,7 @@ And also the breaking news as a notification on your mobile.
 
 For any help or feedback, contact me on my accounts :)
 
-#Screenshots:
+# Screenshots:
 
 ![image1](https://user-images.githubusercontent.com/93454138/162544362-b3767158-23a7-4dd3-bdc8-27b6080bd48a.jpeg)
 ![image2](https://user-images.githubusercontent.com/93454138/162544364-a163cdf5-d314-48ab-b42a-3658db95b19c.jpeg)
